@@ -1,0 +1,49 @@
+body{
+    
+    margin:0;
+    padding:0;
+    background:black;
+
+}
+body h1{
+    color:white ;
+    font-size:40px;
+}
+div{
+    justify-content:center;
+    align-items:center;
+    flex-wrap:wrap;
+    
+}
+div h2{
+    color:antiquewhite;
+    size:100px;
+    text-align:center;
+    margin-top:20px;
+    margin-left:20px;
+}
+div p{
+    color:white;
+    font-size:20px;
+    text-align:center;
+    margin-top:30px;
+    
+
+}
+ #b{
+    color:white;
+    background:transparent;
+ }
+
+    
+    
+
+
+.object{
+    width:200px;
+
+
+}
+.obj-planet{
+    width:200px;
+}

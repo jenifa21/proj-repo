@@ -1,0 +1,15 @@
+body {
+background-color:black;
+
+}
+body p{
+    color:white;
+    font-size:20px;
+}
+body ul{
+    color:white;
+    font-size:20px;
+}
+body img{
+    width:800px;
+}
